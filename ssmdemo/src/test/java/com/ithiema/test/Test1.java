@@ -27,7 +27,18 @@ public class Test1 {
 
     @Test
     public void test2(){
+
         System.out.println("just test");
     }
+
+    @Test
+    public void test3(){
+
+        System.out.println("just test");
+    }
+
+
+
+
 
 }
