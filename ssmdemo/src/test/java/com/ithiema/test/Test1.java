@@ -30,4 +30,10 @@ public class Test1 {
         System.out.println("just test");
     }
 
+
+    @Test
+    public void test4(){
+
+        System.out.println("just test");
+    }
 }
