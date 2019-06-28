@@ -24,4 +24,10 @@ public class Test1 {
             System.out.println(student);
         }
     }
+
+    @Test
+    public void test2(){
+        System.out.println("just test");
+    }
+
 }
