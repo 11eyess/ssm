@@ -27,7 +27,6 @@ public class Test1 {
 
     @Test
     public void test2(){
-
         System.out.println("just test");
     }
 
@@ -41,4 +40,10 @@ public class Test1 {
 
 
 
+
+    @Test
+    public void test4(){
+
+        System.out.println("just test");
+    }
 }
